@@ -15,4 +15,3 @@ git@github.com:Joffrey-ynov/cypress-components.git
 
 
 ## NOTES
-- Le "baseUrl" de cypress.json est parametré sur "http://localhost:8080".
