@@ -1,0 +1,6 @@
+{
+	"baseUrl": "http://localhost:8080",
+	"ignoreTestFiles": "**/examples/*",
+	"viewPortWidth": 1920,
+	"viewPortHeight": 1080
+}
